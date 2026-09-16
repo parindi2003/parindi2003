@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Parindi 👋
 
-<!--
-**parindi2003/parindi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate specializing in Data Science
 
-Here are some ideas to get you started:
+📊 Aspiring Data Scientist / Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills & Technologies
+
+* **Programming:** Python, Java, JavaScript
+* **Data Science:** Pandas, NumPy, Scikit-learn
+* **Database:** MySQL, MongoDB, SQL
+* **Visualization:** Power BI, Matplotlib
+* **Development:** React, Spring Boot
+* **Tools:** Git, GitHub, VS Code
+
+##  Currently Learning
+
+* Machine Learning
+* Data Analysis
+* Data Warehousing & Business Intelligence
+* Full-Stack Development
+
+##  Projects
+
+###  Intelligent Vegetable Wastage Management System
+
+An order management system designed to support efficient vegetable ordering and wastage management.
+
+**Technologies:** React, Spring Boot, MongoDB
+
+###  Data Analysis & Machine Learning Projects
+
+Exploring real-world datasets through data cleaning, exploratory data analysis, visualization, and machine learning.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+###  Business Intelligence Dashboard
+
+Interactive dashboards created to analyze business data and communicate insights.
+
+**Technologies:** Power BI, SQL
+
+##  Career Goal
+
+To gain practical industry experience and develop my skills in data analysis, machine learning, and data-driven problem solving.
